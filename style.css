@@ -1,0 +1,44 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding-top:56px ;
+}
+.heading{
+    font-size: 150px;
+    font-weight: 700;
+}
+.hover:hover{
+    cursor: pointer;
+}
+.head-color{
+    color: rgba(73, 72, 72, 0.705);
+}
+.size{
+    font-size: 30px;
+    
+}
+.bg-grey{
+    background-color: rgba(223, 213, 213, 0.418);
+}
+.text-deco{
+    text-decoration: line-through;
+}
+.bg-img{
+   
+    height: 90vh;
+    background: url(hero_bg_1.jpg);
+}
+.deco{
+ text-decoration: none;
+ color: black;
+ 
+}
+.but{
+   height: 50px;
+   
+}
